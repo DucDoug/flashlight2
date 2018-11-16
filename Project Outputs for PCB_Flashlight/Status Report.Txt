@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Flashlight.PrjPcb]
+   Generated File[PCB1_FL.GTO]
+   Generated File[PCB1_FL.GTP]
+   Generated File[PCB1_FL.GTS]
+   Generated File[PCB1_FL.GTL]
+   Generated File[PCB1_FL.GBL]
+   Generated File[PCB1_FL.GBS]
+   Generated File[PCB1_FL.GBO]
+   Generated File[PCB1_FL.GM1]
+   Generated File[PCB1_FL.GPT]
+   Generated File[PCB1_FL.GPB]
+   Generated File[PCB1_FL.RUL]
+   Generated File[PCB1_FL.EXTREP]
+   Generated File[PCB1_FL.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 7:45:08 PM On 11/7/2018

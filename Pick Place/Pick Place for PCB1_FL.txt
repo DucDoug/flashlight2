@@ -1,0 +1,18 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\DougFL\.\Pick Place\Pick Place for PCB1_FL.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       16/11/18
+Time:       11:35
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                     Layer       Footprint              Center-X(mil) Center-Y(mil) Rotation Description                                                                                           
+SW1        T8019L-TNQ                  TopLayer    SALE-T8019L-5_V        700.000       339.370       270      "Toggle Switch, SPDT, Through Hole, 3 Terminals"                                                      
+R1         "390R 5% 0805(2012)"        TopLayer    RESC0805(2012)_N       1850.000      407.520       180      "390R 0.125W 5% 0805 (2012 Metric)  SMD"                                                              
+P1         TSW-102-08-F-S-RA           BottomLayer SMTC-TSW-102-08-X-S-RA 900.000       157.520       180      "0.025" SQ Post Header, Through-hole, Right Angle, -55 to 125 degC, 2.54 mm Pitch, 2-Pin, Male, RoHS" 
+DS1        APT1608SGC                  TopLayer    KING-APT1608SGC_V      1900.000      207.520       270      "Super Bright Green LED, 62.5 mW, 25 mA, -40 to 85 degC, 2-Pin SMD, RoHS, Tape and Reel"              
+C1         "CAP 1.5uF 6.3V 0805(2012)" TopLayer    CAPC0805(2012)100_M    1450.000      357.520       90       "CAP 1.5uF 6.3V ±20% 0805 (2012 Metric) Thickness 1mm SMD"                                            
